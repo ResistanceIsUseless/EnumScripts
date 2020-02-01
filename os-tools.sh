@@ -14,6 +14,6 @@ git clone https://github.com/PowerShellMafia/PowerSploit.git
 git clone https://github.com/AlessandroZ/BeRoot.git
 https://raw.githubusercontent.com/AonCyberLabs/Windows-Exploit-Suggester/master/windows-exploit-suggester.py
 git clone https://github.com/pentestmonkey/windows-privesc-check.git
-https://raw.githubusercontent.com/411Hall/JAWS/master/jaws-enum.ps1
-https://raw.githubusercontent.com/M4ximuss/Powerless/master/Powerless.bat
+wget https://raw.githubusercontent.com/411Hall/JAWS/master/jaws-enum.ps1
+wget https://raw.githubusercontent.com/M4ximuss/Powerless/master/Powerless.bat
 
