@@ -1,1 +1,4 @@
 
+watson.exe - https://github.com/rasta-mouse/Watson
+Adduser.exe - Login: audit Password: Test123456789! https://github.com/newsoft/adduser
+juicypotato.exe - https://github.com/ohpe/juicy-potato
