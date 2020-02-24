@@ -2,3 +2,51 @@
 watson.exe - https://github.com/rasta-mouse/Watson
 Adduser.exe - Login: audit Password: Test123456789! https://github.com/newsoft/adduser
 juicypotato.exe - https://github.com/ohpe/juicy-potato
+SharpAttack - https://github.com/jaredhaight/SharpAttack
+MSFRottenPotato.dll - https://github.com/breenmachine/RottenPotatoNG
+MSFRottenPotato.exe - https://github.com/breenmachine/RottenPotatoNG
+MSFRottenPotato_x86.dll - https://github.com/breenmachine/RottenPotatoNG
+Rubeus.exe  - https://github.com/GhostPack/Rubeus
+Rubeus.exe.config 
+SafetyKatz.exe - https://github.com/GhostPack/SafetyKatz
+SharpChrome.exe - https://github.com/djhohnstein/SharpChrome
+SharpDPAPI.exe - https://github.com/GhostPack/SharpDPAPI
+SharpDump.exe - https://github.com/GhostPack/SharpDump
+SharpGPOAbuse.exe - https://github.com/FSecureLABS/SharpGPOAbuse
+SharpSploit.dll - https://github.com/cobbr/SharpSploit
+SharpUp.exe - https://github.com/GhostPack/SharpUp
+SharpWMI.exe - https://github.com/GhostPack/SharpWMI
+https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Exfiltration/Invoke-Mimikatz.ps1
+https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Exfiltration/Get-GPPPassword.ps1
+https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Exfiltration/Invoke-NinjaCopy.ps1
+https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Exfiltration/VolumeShadowCopyTools.ps1
+https://raw.githubusercontent.com/samratashok/nishang/master/Escalation/Invoke-PsUACme.ps1
+https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Privesc/PowerUp.ps1
+https://raw.githubusercontent.com/EmpireProject/Empire/master/data/module_source/situational_awareness/network/powerview.ps1
+https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/CodeExecution/Invoke-Shellcode.ps1
+https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/CodeExecution/Invoke-WmiCommand.ps1
+https://raw.githubusercontent.com/samratashok/nishang/master/Utility/Add-Exfiltration.ps1
+https://raw.githubusercontent.com/samratashok/nishang/master/Utility/Do-Exfiltration.ps1
+https://raw.githubusercontent.com/samratashok/nishang/master/Backdoors/Gupt-Backdoor.ps1
+https://raw.githubusercontent.com/samratashok/nishang/master/Backdoors/DNS_TXT_Pwnage.ps1"
+https://raw.githubusercontent.com/samratashok/nishang/master/Utility/Out-DnsTxt.ps1
+https://raw.githubusercontent.com/samratashok/nishang/master/Gather/Get-Information.ps1
+https://raw.githubusercontent.com/samratashok/nishang/master/Gather/Get-WLAN-Keys.ps1
+https://raw.githubusercontent.com/besimorhino/powercat/master/powercat.ps1
+https://raw.githubusercontent.com/Kevin-Robertson/Inveigh/master/Inveigh-Relay.ps1
+https://raw.githubusercontent.com/Kevin-Robertson/Inveigh/master/Inveigh.ps1
+https://raw.githubusercontent.com/jaredhaight/PowerPunch/master/Documentation/Get-Attack.ps1
+https://raw.githubusercontent.com/jaredhaight/PowerPunch/master/Code_Execution/Invoke-MetasploitPayload/Invoke-MetasploitPayload.ps1
+https://raw.githubusercontent.com/Kevin-Robertson/Tater/master/Tater.ps1
+https://raw.githubusercontent.com/FuzzySecurity/PowerShell-Suite/master/Invoke-MS16-032.ps1
+https://raw.githubusercontent.com/putterpanda/mimikittenz/master/Invoke-mimikittenz.ps1
+https://raw.githubusercontent.com/jaredhaight/PowerPunch/master/Persistence/New-ScheduledTaskZ.ps1
+https://raw.githubusercontent.com/EmpireProject/Empire/master/data/module_source/credentials/Invoke-Kerberoast.ps1
+https://raw.githubusercontent.com/lukebaggett/dnscat2-powershell/master/dnscat2.ps1
+https://raw.githubusercontent.com/Kevin-Robertson/Invoke-TheHash/master/Invoke-SMBClient.ps1
+https://raw.githubusercontent.com/Kevin-Robertson/Invoke-TheHash/master/Invoke-SMBExec.ps1
+https://raw.githubusercontent.com/Kevin-Robertson/Invoke-TheHash/master/Invoke-WMIExec.ps1
+https://raw.githubusercontent.com/hlldz/Invoke-Phant0m/master/Invoke-Phant0m.ps1
+https://raw.githubusercontent.com/EmpireProject/Empire/master/data/module_source/collection/vaults/KeePassConfig.ps1
+https://raw.githubusercontent.com/jaredhaight/PowerPunch/master/Persistence/New-WMIPersistence.ps1
+https://raw.githubusercontent.com/enigma0x3/Misc-PowerShell-Stuff/master/Invoke-EventVwrBypass.ps1
