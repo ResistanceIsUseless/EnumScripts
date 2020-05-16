@@ -6,7 +6,9 @@ cd Linux
 git clone https://github.com/TH3xACE/SUDO_KILLER.git
 wget https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh
 wget https://raw.githubusercontent.com/diego-treitos/linux-smart-enumeration/master/lse.sh
-https://raw.githubusercontent.com/sleventyeleven/linuxprivchecker/master/linuxprivchecker.py
+wget ttps://raw.githubusercontent.com/sleventyeleven/linuxprivchecker/master/linuxprivchecker.py
+wget https://github.com/DominicBreuker/pspy/releases/download/v1.2.0/pspy64
+wget https://github.com/DominicBreuker/pspy/releases/download/v1.2.0/pspy32
 
 cd ..
 cd Windows
